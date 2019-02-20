@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+
+
+h1 {
+	color: blue;
+}
+
+h1 img {
+	height: 5em;
+}
+body {
+	strength: bold;
+	font-family: calibri;
+}
+a {
+	strength: bold;
+}
